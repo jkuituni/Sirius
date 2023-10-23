@@ -8,3 +8,6 @@ A very simple 6502 based single board computer with just about as much chips as 
   - 6551 ACIA for rs232 with max233 level translator
 - Two TTL decoder chips for memory mapping.
 
+Initial design of this board was drawn by hand to pieces of paper. What you see here is an attempt to 
+capture that design into digital form using KiCAD with intentionally not making changes to it if possible.
+
